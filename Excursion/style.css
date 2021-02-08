@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+    background-color: black;
+}
+
+h1 {
+    color: white;
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.link {
+    font-size: 16px;
+    color: aquamarine;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#personal {
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+    color: white;
+    font-size: 42px;
+
+}
+
+#gray {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    color: gray;
+}
+
+img {
+    margin: 8px 0px;
+}
+
+#trade {
+    text-align: right;
+    color: gray;
+    font-size: 25px;
+}
